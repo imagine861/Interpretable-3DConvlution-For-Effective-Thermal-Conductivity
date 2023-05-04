@@ -1,0 +1,1 @@
+# Interpretable-3DConvlution-For-Effective-Thermal-Conductivity
