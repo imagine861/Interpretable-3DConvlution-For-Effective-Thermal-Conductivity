@@ -1,1 +1,1 @@
-# Interpretable-3DConvlution-For-Effective-Thermal-Conductivity
+# An Interpretable Deep Learning Strategy for Effective Thermal Conductivity Prediction of Porous Materials
